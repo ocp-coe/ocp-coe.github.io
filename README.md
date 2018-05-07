@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+OpenShift Center of Excellence 
+====================================
+This Git Organization is intended to assist OpenShift SME's with a number of core areas related to solution architectures.
 
-You can use the [editor on GitHub](https://github.com/ocp-coe/ocp-coe.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The diagram below depicts the core areas covered by associated repos.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Overview
+--------
 
-### Markdown
+![OpenShift Center of Excellence Project Overview](docs/images/ocp-coe-overview.png?raw=true "OpenShift Center of Excellence Project Overview")
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+Repos
+--------
 
-# Header 1
-## Header 2
-### Header 3
+1. Demos-Workshops - [Demos-Workshops](https://github.com/ocp-coe/demos-workshops/)
 
-- Bulleted
-- List
+2. POC's - [POC's](https://github.com/ocp-coe/pocs/)
 
-1. Numbered
-2. List
+3. Reference Architectures - [Reference Architectures](https://github.com/ocp-coe/reference-architectures/)
 
-**Bold** and _Italic_ and `Code` text
+4. Customer Adoption - [Customer Adoption](https://github.com/ocp-coe/customer-adoption/)
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ocp-coe/ocp-coe.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
