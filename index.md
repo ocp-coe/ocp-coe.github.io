@@ -15,7 +15,7 @@ The diagram below depicts the core areas covered by associated repos.
 ##### [Demos-Workshops-Repo](https://github.com/ocp-coe/demos-workshops/)
 
 <a href="https://github.com/ocp-coe/overview" target="_blank"><img src="docs/images/overview.png" alt="Overview"></a>  
-<a href="https://github.com/ocp-coe/demos-workshops" target="_blank"><img src="docs/images/demo-workshop.png" alt="Demo Workshopts" width="200" height="100" border="0"></a><a href="https://github.com/ocp-coe/pocs" target="_blank"><img src="docs/images/poc.png" alt="Proof of Concepts" width="200" height="100" border="0"></a>
+<a href="https://github.com/ocp-coe/demos-workshops" target="_blank"><img src="docs/images/demo-workshop.png" alt="Demo Workshopts" width="200" height="100" border="0"></a><a href="https://github.com/ocp-coe/pocs" target="_blank"><img src="docs/images/poc.png" alt="Proof of Concepts" width="200" height="100" border="0"></a><a href="https://github.com/ocp-coe/reference-architectures" target="_blank"><img src="docs/images/ref-arch-repo.png" alt="Reference Architectures Repo" width="200" height="100" border="0"></a><a href="https://github.com/ocp-coe/customer-adoption" target="_blank"><img src="docs/images/customer-adoption.png" alt="Customer Adoption Repo" width="200" height="100" border="0"></a>
 
 Repos
 --------
