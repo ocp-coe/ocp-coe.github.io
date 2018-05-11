@@ -14,7 +14,7 @@ The diagram below depicts the core areas covered by associated repos.
 ![OpenShift Center of Excellence Project Overview](docs/images/header-overview.png?raw=true "OpenShift Center of Excellence Project Overview")
 #### [Demos-Workshops-Repo](https://github.com/ocp-coe/demos-workshops/)
 
-<a href="https://github.com/ocp-coe/overview" target="_blank"><img src="docs/images/overview.png" alt="Overview"></a>
+<a href="https://github.com/ocp-coe/overview" target="_blank"><img src="docs/images/overview.png" alt="Overview"></a><br>
 <a href="https://github.com/ocp-coe/demos-workshops" target="_blank"><img src="docs/images/demo-workshop.png" alt="Demo Workshopts" width="250" height="75" border="0"></a><a href="https://github.com/ocp-coe/pocs" target="_blank"><img src="docs/images/poc.png" alt="Proof of Concepts" width="200" height="75" border="0"></a>
 
 Repos
