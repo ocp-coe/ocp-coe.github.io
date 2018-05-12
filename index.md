@@ -11,6 +11,10 @@ This Git Organization is intended to assist OpenShift SME's with a number of cor
 
   1. The diagram below depicts the core areas covered by associated repos.
   ![OpenShift Center of Excellence Project Overview](docs/images/header-overview.png?raw=true "OpenShift Center of Excellence Project Overview") 
+  [Demos-Workshops Repo](https://github.com/ocp-coe/demos-workshops/)   [Demos-Workshops Repo](https://github.com/ocp-coe/demos-workshops/)   [Demos-Workshops Repo](https://github.com/ocp-coe/demos-workshops/)   [Demos-Workshops Repo](https://github.com/ocp-coe/demos-workshops/)
+
+
+
 <h4><a href="https://github.com/ocp-coe/demos-workshops" target="_blank">Demo Workshops Repo</a> <a href="https://github.com/ocp-coe/pocs" target="_blank">POC-Repo</a><a href="https://github.com/ocp-coe/reference-architectures" target="_blank">Reference Architecture Repo</a><a href="https://github.com/ocp-coe/customer-adoption" target="_blank">Customer Adoption Repo</a></h4>
 
  
