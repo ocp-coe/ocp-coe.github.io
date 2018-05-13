@@ -25,9 +25,14 @@ Test
    <a href="https://github.com/ocp-coe/overview" target="_blank"><img src="docs/images/light-overview.png" alt="Overview" width="800"></a>
    <a href="https://github.com/ocp-coe/demos-workshops" target="_blank"><img src="docs/images/demo-light1.png" alt="Demo Workshopts" width="200" height="50" border="0"></a><a href="https://github.com/ocp-coe/pocs" target="_blank"><img src="docs/images/poc-light1.png" alt="Proof of Concepts" width="180" height="50" border="0"></a><a href="https://github.com/ocp-coe/reference-architectures" target="_blank"><img src="docs/images/ref-light1.png" alt="Reference Architectures Repo" width="200" height="50" border="0"></a><a href="https://github.com/ocp-coe/customer-adoption" target="_blank"><img src="docs/images/customer-light1.png" alt="Customer Adoption Repo" width="180" height="50" border="0"></a>  
 
+<img src="docs/images/header-overview.png" alt="Overview" width="800" usemap="#planetmap>
 
-   <a href="https://github.com/ocp-coe/overview" target="_blank"><img src="docs/images/light-overview.png" alt="Overview"></a>
-Repos
+<map name="planetmap">
+  <area shape="rect" coords="0,0,82,126" href="https://github.com/ocp-coe/demos-workshops" alt="Sun">
+  <area shape="circle" coords="90,58,3" href="https://github.com/ocp-coe/pocs" alt="Mercury">
+  <area shape="circle" coords="124,58,8" href="https://github.com/ocp-coe/reference-architectures" alt="Venus">
+</map>
+
 --------
 
 1. Demos-Workshops - [Demos-Workshops](https://github.com/ocp-coe/demos-workshops/)
