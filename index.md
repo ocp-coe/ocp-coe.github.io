@@ -28,7 +28,7 @@ Test
 <img src="docs/images/header-overview.png" alt="Overview" width="800" usemap="#planetmap">
 
 <map name="planetmap">
-  <area shape="rect" coords="25,100,198,170" href="https://github.com/ocp-coe/demos-workshops" alt="Sun">
+  <area shape="rect" coords="25,100,195,170" href="https://github.com/ocp-coe/demos-workshops" alt="Sun">
   <area shape="rect" coords="217,100,384,170" href="https://github.com/ocp-coe/pocs" alt="Mercury">
   <area shape="rect" coords="412,100,579,170" href="https://github.com/ocp-coe/reference-architectures" alt="Reference Architecture">
   <area shape="rect" coords="607,100,773,170" href="https://github.com/ocp-coe/customer-adoption" alt="Customer Adoption">
