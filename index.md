@@ -7,7 +7,7 @@ layout: default
 
 OpenShift COE Overview
 ====================================
-This Git Organization is intended to assist OpenShift SME's with a number of core areas related to solution architectures.
+This Git Organization is intended to assist OpenShift SME's with a number of areas related to solution architectures.
 
 The diagram below depicts the core areas covered by associated repos.  
 <img src="docs/images/header-overview-light.png" alt="Overview" width="800" usemap="#planetmap">
